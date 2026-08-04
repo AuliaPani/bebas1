@@ -1,3 +1,3 @@
 # bebas1
-
-bebas
+file pertama saya di github 
+aulia pani
